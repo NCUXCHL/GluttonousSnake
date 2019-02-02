@@ -1,0 +1,35 @@
+﻿生成启动时间为 2019/2/2 9:08:34。
+     1>项目“C:\Users\爱牙的XCHL\Desktop\Win32--贪吃蛇demo\Win32--贪吃蛇demo\Win32--贪吃蛇demo.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\App download\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\爱牙的xchl\desktop\win32--贪吃蛇demo\win32--贪吃蛇demo\main.cpp(87): warning C4101: “w”: 未引用的局部变量
+     1>c:\users\爱牙的xchl\desktop\win32--贪吃蛇demo\win32--贪吃蛇demo\main.cpp(86): warning C4101: “h”: 未引用的局部变量
+     1>c:\users\爱牙的xchl\desktop\win32--贪吃蛇demo\win32--贪吃蛇demo\main.cpp(88): warning C4101: “temp”: 未引用的局部变量
+     1>c:\users\爱牙的xchl\desktop\win32--贪吃蛇demo\win32--贪吃蛇demo\main.cpp(295): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\爱牙的xchl\desktop\win32--贪吃蛇demo\win32--贪吃蛇demo\main.cpp(284) : 忽略“i”的定义
+                 c:\users\爱牙的xchl\desktop\win32--贪吃蛇demo\win32--贪吃蛇demo\main.cpp(202) : 使用“i”的定义
+     1>c:\users\爱牙的xchl\desktop\win32--贪吃蛇demo\win32--贪吃蛇demo\main.cpp(297): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\爱牙的xchl\desktop\win32--贪吃蛇demo\win32--贪吃蛇demo\main.cpp(284) : 忽略“i”的定义
+                 c:\users\爱牙的xchl\desktop\win32--贪吃蛇demo\win32--贪吃蛇demo\main.cpp(202) : 使用“i”的定义
+     1>c:\users\爱牙的xchl\desktop\win32--贪吃蛇demo\win32--贪吃蛇demo\main.cpp(309): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\爱牙的xchl\desktop\win32--贪吃蛇demo\win32--贪吃蛇demo\main.cpp(284) : 忽略“i”的定义
+                 c:\users\爱牙的xchl\desktop\win32--贪吃蛇demo\win32--贪吃蛇demo\main.cpp(202) : 使用“i”的定义
+     1>c:\users\爱牙的xchl\desktop\win32--贪吃蛇demo\win32--贪吃蛇demo\main.cpp(311): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\爱牙的xchl\desktop\win32--贪吃蛇demo\win32--贪吃蛇demo\main.cpp(284) : 忽略“i”的定义
+                 c:\users\爱牙的xchl\desktop\win32--贪吃蛇demo\win32--贪吃蛇demo\main.cpp(202) : 使用“i”的定义
+     1>c:\users\爱牙的xchl\desktop\win32--贪吃蛇demo\win32--贪吃蛇demo\main.cpp(314): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\爱牙的xchl\desktop\win32--贪吃蛇demo\win32--贪吃蛇demo\main.cpp(284) : 忽略“i”的定义
+                 c:\users\爱牙的xchl\desktop\win32--贪吃蛇demo\win32--贪吃蛇demo\main.cpp(202) : 使用“i”的定义
+     1>c:\users\爱牙的xchl\desktop\win32--贪吃蛇demo\win32--贪吃蛇demo\main.cpp(316): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\爱牙的xchl\desktop\win32--贪吃蛇demo\win32--贪吃蛇demo\main.cpp(284) : 忽略“i”的定义
+                 c:\users\爱牙的xchl\desktop\win32--贪吃蛇demo\win32--贪吃蛇demo\main.cpp(202) : 使用“i”的定义
+       Link:
+         D:\App download\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\爱牙的XCHL\Desktop\Win32--贪吃蛇demo\Debug\Win32--贪吃蛇demo.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\爱牙的XCHL\Desktop\Win32--贪吃蛇demo\Debug\Win32--贪吃蛇demo.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\爱牙的XCHL\Desktop\Win32--贪吃蛇demo\Debug\Win32--贪吃蛇demo.lib" /MACHINE:X86 "Debug\Win32--贪吃蛇demo.res"
+         Debug\main.obj
+         Win32--贪吃蛇demo.vcxproj -> C:\Users\爱牙的XCHL\Desktop\Win32--贪吃蛇demo\Debug\Win32--贪吃蛇demo.exe
+     1>已完成生成项目“C:\Users\爱牙的XCHL\Desktop\Win32--贪吃蛇demo\Win32--贪吃蛇demo\Win32--贪吃蛇demo.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.91
